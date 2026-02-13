@@ -1,16 +1,16 @@
-# React + Vite
+# ⚡ Clarity Engine v1.0.0
+### Designed by a Medical Professional for High-Stakes Choice Architecture.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Clarity Engine is a structured decision framework built to eliminate intuition-bias in clinical and professional environments.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Features
+- **Weighted Matrix Logic**: Mathematically prioritize what actually matters.
+- **Risk-Adjusted Indexing**: Automated penalties for high-risk surgical or career paths.
+- **AI-Driven Narratives**: Strategic "Why" analysis generated per decision.
 
-## React Compiler
+## 👨‍⚕️ About the Developer
+Developed by a Medical Student at the **University of Kirkuk** (Class of 2026) with a focus on Surgery and Trauma Care. This tool bridges the gap between clinical logic and software engineering.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+*Commercial License Required for Institutional Use.*
