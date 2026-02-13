@@ -1,0 +1,27 @@
+@import "tailwindcss";
+@reference "tailwindcss";
+
+:root {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  line-height: 1.5;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #f8fafc; /* slate-50 */
+  color: #0f172a;           /* slate-900 */
+}
+
+#root {
+  width: 100%;
+}
+
+/* Custom range input styling for a more professional look */
+input[type='range'] {
+  @apply cursor-pointer;
+}
+
+button {
+  @apply transition-all active:scale-95 cursor-pointer;
+}
