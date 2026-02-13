@@ -14,3 +14,4 @@ Developed by a Medical Student at the **University of Kirkuk** (Class of 2026) w
 
 ---
 *Commercial License Required for Institutional Use.*
+![Screenshot_13-2-2026_135112_clarity-engine-virid vercel app](https://github.com/user-attachments/assets/8b27b69e-da2d-4120-8a33-e76abb0cb825)
